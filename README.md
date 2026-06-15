@@ -7,7 +7,7 @@
 
 <h1 align="center">Hey, I'm Dyumna 👋</h1>
 
-<h3 >ML & Computer Vision | MERN Stack | C++ | Open Source | Embedded & Intelligent Systems </h3>
+<h3 >ML & Computer Vision | MERN Stack | C++ | Competitive programming | Embedded & Intelligent Systems </h3>
 
 
 <h3 align="left">👩‍💻  About Me</h3>
