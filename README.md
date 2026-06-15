@@ -18,7 +18,7 @@
 🧠 Exploring Machine Learning, Computer Vision, Robotics, and Intelligent Systems <br>
 💻 Building full-stack and AI-powered applications using MERN, Python, and C++ <br>
 📚 Continuously learning Data Structures & Algorithms, Machine Learning, and Software Engineering <br>
-🚀 Passionate about turning research ideas into real-world systems
+🚀 Passionate about turning research ideas into real-world systems <br>
 ☕ Managing caffeine levels, coding sessions, and compiler errors between study breaks
 </p>
 
