@@ -4,51 +4,65 @@
 
 ###
 
-### 📫 How to Reach Me
 
-- ✉️ **Email:** [dyumna.negi1@gmail.com](mailto:dyumna.negi1@gmail.com)
--  ✉️ **Hashnode:** [![Hashnode](https://img.shields.io/static/v1?message=Hashnode&logo=hashnode&label=&color=2962FF&logoColor=white&style=for-the-badge)](https://hashnode.com/@dyu11n) 
-- 🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dyumna-negi)
+<h1 align="center">Hey, I'm Dyumna 👋</h1>
 
+<h3 >ML & Computer Vision | MERN Stack | C++ | Open Source | Embedded & Intelligent Systems </h3>
 
-
-</div>
-
-
-<h1 align="center">hey there 👋</h1>
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<p align="left">I'm Dyumna from India<br><br>- 🔭 I’m currently a second year engineering student<br>- 🌐 Looking forward to learn more about open source project and web development<br>- 🔗 Keenly interested in exploring fields such as blockchain and AI/ML<br> - 💃 In my free time I like to relax and listen to music</p>
-
-###
-
-<h3 align="left"> 💻 Language and tools</h3>
-
-###
-
-<div align="left">
- Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
+<p align="left">
+🔭 Third-year engineering student <br>
+🧠 Exploring Machine Learning, Computer Vision, Robotics, and Intelligent Systems <br>
+💻 Building full-stack and AI-powered applications using MERN, Python, and C++ <br>
+📚 Continuously learning Data Structures & Algorithms, Machine Learning, and Software Engineering <br>
+🚀 Passionate about turning research ideas into real-world systems
+☕ Managing caffeine levels, coding sessions, and compiler errors between study breaks
 </p>
 
+
+
+## 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,git,github,vscode" />
+</p>
+
+### AI/ML & Computer Vision
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge" />
+
+### Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,postman,mysql" />
+</p>
+
+
+<div align="center">
+
+<h3>📫 Connect With Me</h3>
+
+<a href="mailto:dyumna.negi1@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dyumna-negi">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="https://leetcode.com/DyuNgi/">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50"/>
+</a>
+
+<a href="https://medium.com/@dyumna.negi1">
+  <img src="https://cdn.simpleicons.org/medium" width="50"/>
+</a>
 </div>
-
-###
-
 
 ###
