@@ -7,19 +7,18 @@
 
 <h1 align="center">Hey, I'm Dyumna 👋</h1>
 
-<h3 >ML & Computer Vision | MERN Stack | C++ | Competitive programming | Embedded & Intelligent Systems </h3>
+<h3 >Software Engineering | Full-Stack Development | AI/ML </h3>
 
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 <p align="left">
-🔭 Third-year engineering student <br>
-🧠 Exploring Machine Learning, Computer Vision, Robotics, and Intelligent Systems <br>
-💻 Building full-stack and AI-powered applications using MERN, Python, and C++ <br>
-📚 Continuously learning Data Structures & Algorithms, Machine Learning, and Software Engineering <br>
-🚀 Passionate about turning research ideas into real-world systems <br>
-☕ Managing caffeine levels, coding sessions, and compiler errors between study breaks
+🎓 Third-year ECE student at IIIT Jabalpur
+💻 Interested in Software Engineering, Full-Stack Development, and AI/ML
+🚀 Built AI-powered and data-driven applications using React, FastAPI, Node.js, and Python
+📈 Solved 850+ DSA problems across LeetCode, Codeforces, CodeChef, and GeeksforGeeks
+🏆 Flipkart GridLock Round 2 | LinkedIn CoachIn Mentee 
 </p>
 
 
