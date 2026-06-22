@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
 </div>
 
 ###
@@ -14,11 +14,11 @@
 
 ###
 <p align="left">
-🎓 Third-year ECE student at IIIT Jabalpur
-💻 Interested in Software Engineering, Full-Stack Development, and AI/ML
-🚀 Built AI-powered and data-driven applications using React, FastAPI, Node.js, and Python
-📈 Solved 850+ DSA problems across LeetCode, Codeforces, CodeChef, and GeeksforGeeks
-🏆 Flipkart GridLock Round 2 | LinkedIn CoachIn Mentee 
+🎓 Third-year ECE student at IIIT Jabalpur<br>
+💻 Interested in Software Engineering, Full-Stack Development, and AI/ML<br>
+🚀 Built AI-powered and data-driven applications using React, FastAPI, Node.js, and Python<br>
+📈 Solved 850+ DSA problems across LeetCode, Codeforces, CodeChef, and GeeksforGeeks<br>
+🏆 Flipkart GridLock Round 2 | LinkedIn CoachIn Mentee <br>
 </p>
 
 
