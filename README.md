@@ -17,7 +17,7 @@
 🎓 Third-year ECE student at IIIT Jabalpur<br>
 💻 Interested in Software Engineering, Full-Stack Development, and AI/ML<br>
 🚀 Built AI-powered and data-driven applications using React, FastAPI, Node.js, and Python<br>
-📈 Solved 850+ DSA problems across LeetCode, Codeforces, CodeChef, and GeeksforGeeks<br>
+📈 Solved DSA problems across LeetCode, Codeforces, CodeChef, and GeeksforGeeks<br>
 🏆 LinkedIn CoachIn Mentee | Amazon School of ML Round 2 (results awaited) | Flipkart GridLock Round 2  (results awaited) <br>
 </p>
 
